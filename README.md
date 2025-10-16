@@ -70,6 +70,11 @@ This chatbot automates that process — employees can upload policy documents, a
 - 📊 **Knowledge Summaries:** Generate department-wise or policy summaries  
 
 ---
+## App in Action
+
+<img width="1280" height="645" alt="Screenshot from 2025-10-16 12-39-29" src="https://github.com/user-attachments/assets/4cbf8821-fbde-4222-9d29-e0deadb63c69" />
+
+<img width="1273" height="642" alt="Screenshot from 2025-10-16 12-41-06" src="https://github.com/user-attachments/assets/8aa37c0c-6cab-4ab4-8961-c5559d6c0c55" />
 
 ## 👩‍💻 Author
 **Angana Chakraborty**  
